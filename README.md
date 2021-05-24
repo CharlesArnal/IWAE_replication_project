@@ -10,5 +10,6 @@ The code was run using Tensorflow version 2.4.1 and Numpy version 1.19.5
 Our experiments are run on the MNIST, fixed binarization MNIST, Fashion MNIST and Omniglot datasets.
 
 # Running experiments
-An example of an experiment (training an autoencoder with the IWAE loss function on the fixed binarization dataset) can be found in experiment_example.py
+An example of an experiment (training an autoencoder with the IWAE loss function on the fixed binarization dataset) can be found in experiment_example.py .
+We ran our experiments on Google's Colab; a few commands are specific to this environment.
 
