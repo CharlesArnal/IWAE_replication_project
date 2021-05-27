@@ -13,3 +13,13 @@ Our experiments are run on the MNIST, fixed binarization MNIST, Fashion MNIST an
 An example of an experiment (training an autoencoder with the IWAE loss function on the fixed binarization dataset) can be found in experiment_example.py .
 We ran our experiments on Google's Colab; a few commands are specific to this environment.
 
+
+
+
+<img src="https://user-images.githubusercontent.com/71833961/119830096-d4b69d00-bef3-11eb-9c84-baf21ba39c8f.png" width="400" height="400"> <img src="https://user-images.githubusercontent.com/71833961/119830081-cf595280-bef3-11eb-8679-46268becf1db.png" width="375" height="375"> 
+
+
+<img src="https://user-images.githubusercontent.com/71833961/119829628-5823be80-bef3-11eb-9b14-29145e136b7c.png" width="800" height="800"> 
+
+
+
